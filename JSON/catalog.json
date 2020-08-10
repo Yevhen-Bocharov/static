@@ -4,62 +4,62 @@
         "productName": "Hoodie",
         "productPrice": "50",
         "productId": "prod_0",
-        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/product__star"
+        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/home-product/product__star"
     },
     {
         "productImage": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/item-2.png",
         "productName": "Cloak",
         "productPrice": "120",
         "productId": "prod_1",
-        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/product__star"
+        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/home-product/product__star"
     },
     {
         "productImage": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/item-3.png",
         "productName": "Jacket",
         "productPrice": "105",
         "productId": "prod_2",
-        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/product__star"
+        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/home-product/product__star"
     },
     {
         "productImage": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/item-4.png",
         "productName": "T-Shirt",
         "productPrice": "35",
         "productId": "prod_3",
-        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/product__star"
+        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/home-product/product__star"
     },
     {
         "productImage": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/item-5.png",
         "productName": "Blouse",
         "productPrice": "45",
         "productId": "prod_4",
-        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/product__star"
+        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/home-product/product__star"
     },
     {
         "productImage": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/item-6.png",
         "productName": "Vest",
         "productPrice": "48",
         "productId": "prod_5",
-        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/product__star"
+        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/home-product/product__star"
     },
     {
         "productImage": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/item-7.png",
         "productName": "Blazer",
         "productPrice": "100",
         "productId": "prod_6",
-        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/product__star"
+        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/home-product/product__star"
     },
     {
         "productImage": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/item-8.png",
         "productName": "Jacket Longe",
         "productPrice": "95",
         "productId": "prod_7",
-        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/product__star"
+        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/home-product/product__star"
     },
     {
         "productImage": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/item-9.png",
         "productName": "T-Shot Ocean",
         "productPrice": "38",
         "productId": "prod_8",
-        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/catalog-men/product__star"
+        "productRate": "https://raw.githubusercontent.com/Yevhen-Bocharov/static/master/img/home-product/product__star"
     }
 ]
